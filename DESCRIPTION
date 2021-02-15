@@ -13,3 +13,7 @@ Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
+Imports: 
+    forcats
+URL: https://github.com/Ilanlivne/foofactors3
+BugReports: https://github.com/Ilanlivne/foofactors3/issues
